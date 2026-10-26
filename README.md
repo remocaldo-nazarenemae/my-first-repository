@@ -6,7 +6,7 @@
 
 **Learning Goal:** I am learning how Git and GitHub help people track changes and manage projects.
 
-**My First Commit:** This repository is my first activity in leaning version control.
+**My First Commit:** This repository is my first activity in learning version control.
 
 ## What I Learned
 
